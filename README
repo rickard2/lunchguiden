@@ -1,0 +1,1 @@
+A personal google go challenge to make a back end for a android app that never saw the light of day. This program parses http://service.dt.se/lunch/ for the lunch menu and stores it in JSON format.
