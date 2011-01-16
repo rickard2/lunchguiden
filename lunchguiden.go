@@ -1,5 +1,9 @@
 /* 
-  Author: Rickard Andersson - M:rickard@0x539.se - T:rickard2 - W:bennison.se
+  Author: Rickard Andersson 
+
+    rickard@0x539.se
+    twitter, github, 4sq: rickard2
+    http://0x539.se 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
